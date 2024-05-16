@@ -1,0 +1,19 @@
+.section {
+    display: flex;
+    justify-content: center;
+    /* Centraliza as imagens horizontalmente */
+    align-items: center;
+    /* Centraliza as imagens verticalmente */
+    height: 50vh;
+    /* Ajuste conforme necessário para o tamanho da seção */
+}
+
+.image-container {
+    display: flex;
+}
+
+.image {
+    /* Adicione estilos adicionais para as imagens, se necessário */
+    margin: 10px;
+    /* Espaçamento entre as imagens */
+}
